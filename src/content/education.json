@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Ontario Graduate Certicifate",
+        "program": "Web Development",
+        "college": "Humber College Institute of Technology & Advanced Learning, Toronto",
+        "startdate": "2022-01-01",
+        "enddate": "2022-12-23",
+        "created_at": "2022-08-10T00:45:54.000000Z",
+        "updated_at": "2022-08-10T00:45:54.000000Z"
+    },
+    {
+        "id": 2,
+        "title": "Bachelors in Engineering at Anna University",
+        "program": "Electrical & Electronics",
+        "college": "Anna University, India",
+        "startdate": "2010-08-16",
+        "enddate": "2014-04-15",
+        "created_at": "2022-08-10T00:45:55.000000Z",
+        "updated_at": "2022-08-10T00:45:55.000000Z"
+    }
+]

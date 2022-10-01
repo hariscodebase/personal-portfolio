@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Culture Kitchen",
+        "imgUrl": "culture-kitchen.jpg",
+        "url": "https://haridinesh.000webhostapp.com/culture-kitchen/index.html",
+        "githubUrl": "https://github.com/hariscodebase/culture-kitchen",
+        "usedskills": "HTML | CSS | JS",
+        "description": "A Restaurant website built using HTML, CSS and JS"
+    },
+    {
+        "id": 2,
+        "title": "Bikers Cross",
+        "imgUrl": "bikers-cross.jpg",
+        "url": "https://bikerscross.herokuapp.com",
+        "githubUrl": "https://github.com/hariscodebase/bikerscross",
+        "usedskills": "HTML | CSS | JS | Bootstrap | NodeJS",
+        "description": "A website to connect bikers. This was developed using Bootstrap for frontend and NodeJS for backend."
+    },
+    {
+        "id": 3,
+        "title": "Movie Genie",
+        "imgUrl": "movie-genie.jpg",
+        "url": "https://roaring-bublanina-9abc61.netlify.app/",
+        "githubUrl": "https://github.com/hariscodebase/movies-app",
+        "usedskills": "HTML | CSS | JS | React JS | W3.CSS",
+        "description": "A webapp built using React JS framework which allows us to search movies based on imdb ratings"
+    },
+    {
+        "id": 4,
+        "title": "World Wide Weather",
+        "imgUrl": "world-wide-weather.jpg",
+        "url": "https://hariscodebase.github.io/world-wide-weather/",
+        "githubUrl": "https://github.com/hariscodebase/world-wide-weather",
+        "usedskills": "HTML | CSS | JS",
+        "description": "A simple weather application to check the current weather of cities around the world."
+    },
+    {
+        "id": 5,
+        "title": "Simon Game",
+        "imgUrl": "simon-game.jpg",
+        "url": "https://hariscodebase.github.io/simon-game/",
+        "githubUrl": "https://github.com/hariscodebase/simon-game",
+        "usedskills": "HTML | CSS | JS",
+        "description": "A game to test your memory."
+    },
+    {
+        "id": 6,
+        "title": "Drumkit",
+        "imgUrl": "drumkit.jpg",
+        "url": "https://hariscodebase.github.io/drumkit/",
+        "githubUrl": "https://github.com/hariscodebase/drumkit",
+        "usedskills": "HTML | CSS | JS",
+        "description": "A web app to play drums using keyboard or mouse."
+    }
+]
