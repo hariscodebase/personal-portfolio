@@ -40,14 +40,14 @@ export const Contact = () => {
                                 <input type="text" value={formDetails.lastName} placeholder="Last Name" onChange={(e) => onFormUpdate('lastName', e.target.value)} />
                                 </Col>
                                 <Col sm={6} className="px-1">
-                                <input type="email" value={formDetails.email} placeholder="Email Address" onChange={(e) => onFormUpdate('lastName', e.target.value)} />
+                                <input type="email" value={formDetails.email} placeholder="Email Address" onChange={(e) => onFormUpdate('email', e.target.value)} />
                                 </Col>
                                 <Col sm={6} className="px-1">
                                 <input type="tel" value={formDetails.phone} placeholder="Phone No." onChange={(e) => onFormUpdate('phone', e.target.value)} />
                                 </Col>
                                 <Col>
                                 <textarea row="6" value={formDetails.message} placeholder="Message.." onChange={(e) => onFormUpdate('message', e.target.value)} />
-                                <button type="submit"><span>Send</span></button>
+                                <button type="submit"><span><a href="mailto:haridinesh08@example.com">Send</a></span></button>
                                 </Col>
                             </Row>
                         </form>

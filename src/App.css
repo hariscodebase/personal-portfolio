@@ -539,6 +539,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   z-index: 1;
   position: relative;
 }
+.contact form button span a {
+  text-decoration: none;
+}
 .contact form button:hover {
   color: #000;
 }
