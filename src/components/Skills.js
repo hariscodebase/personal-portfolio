@@ -1,7 +1,7 @@
 import { Container, Row, Col } from "react-bootstrap";
 import "react-multi-carousel/lib/styles.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHtml5, faCss3, faJs, faCodepen, faReact, faBootstrap, faNodeJs  } from '@fortawesome/free-brands-svg-icons';
+import { faHtml5, faCss3, faJs, faCodepen, faReact, faBootstrap, faNodeJs, faGit  } from '@fortawesome/free-brands-svg-icons';
 import { faCode, faDatabase, faComputer, faTools } from '@fortawesome/free-solid-svg-icons';
 
 
@@ -31,6 +31,10 @@ export const Skills = () => {
                                     <h5>JS</h5>
                                 </div>
                                 <div className="skill-item">
+                                <FontAwesomeIcon icon={faCodepen} />
+                                    <h5>ASP .NET</h5>
+                                </div>
+                                <div className="skill-item">
                                 <FontAwesomeIcon icon={faCode} />
                                     <h5>C#</h5>
                                 </div>
@@ -53,6 +57,10 @@ export const Skills = () => {
                                 <div className="skill-item">
                                 <FontAwesomeIcon icon={faDatabase} />
                                     <h5>SQL</h5>
+                                </div>
+                                <div className="skill-item">
+                                <FontAwesomeIcon icon={faGit} />
+                                    <h5>GIT</h5>
                                 </div>
                                 <div className="skill-item">
                                 <FontAwesomeIcon icon={faComputer} />
