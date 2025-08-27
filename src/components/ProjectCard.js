@@ -11,8 +11,8 @@ export const ProjectCard = ({title, description, imgUrl, url, githubUrl, usedski
                     <p>{description}</p>
                     <p>{usedskills}</p>
                     <div className="proj-btns">
-                        <a href={url} target="_blank"><Button size="lg" variant="primary">Live</Button></a>
-                        <a href={githubUrl} target="_blank"><Button size="lg" variant="dark">Github</Button></a>
+                        <a href={url} target="_blank" rel="noreferrer"><Button size="lg" variant="primary">Live</Button></a>
+                        <a href={githubUrl} target="_blank" rel="noreferrer"><Button size="lg" variant="dark">Github</Button></a>
                     </div>
                     
                 </div>                
