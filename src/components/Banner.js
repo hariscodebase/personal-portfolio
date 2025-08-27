@@ -9,11 +9,11 @@ export const Banner = () => {
             <Container>
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
-                        <span className="tagline">Welcome to my Portfolio</span>
-                        <h1>Hi, I'm Hari Dinesh</h1>
-                        <h2>Full stack developer</h2>
-                        <p>Welcome to my portfolio! I'm a full-stack developer based in Ontario with some good amount of work experience. I love to build quality web applications with a long term vision. Apart from coding, I love nature, music, football and friends. if you are looking for a full stack developer or software engineer, please feel free to reach out!</p>
-                        <button onClick={() => window.location="#connect"}>Let's connect <ArrowRightCircle size={25}/></button>
+                        <span className="tagline">Welcome to my Portfolio!</span>
+                        <h1>I'm Hari</h1>
+                        <h2></h2>
+                        <p>A Full Stack Developer with 8+ years of experience building scalable applications using .NET Core, C#, React, SQL Server, and Azure. I specialize in developing end-to-end solutions—from designing APIs and optimizing databases to creating responsive UIs and deploying cloud-native applications. As a <a href="https://learn.microsoft.com/en-ca/users/HariDineshKrishnamurthy-3635/credentials/259BD18E566E5FF6">Microsoft Certified: Azure AI Engineer Associate</a>, I’m passionate about integrating AI-powered automation into modern software to improve efficiency and user experience.</p>
+                        {/* <button onClick={() => window.location="#connect"}>Let's connect <ArrowRightCircle size={25}/></button> */}
                         <a className="resume-btn" href={resume} download><Button variant="dark">Resume</Button></a>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
