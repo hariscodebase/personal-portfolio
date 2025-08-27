@@ -12,7 +12,7 @@
         "id": 2,
         "title": "Bikers Cross",
         "imgUrl": "bikers-cross.jpg",
-        "url": "https://bikerscross.herokuapp.com",
+        "url": "https://bikerscross.onrender.com/",
         "githubUrl": "https://github.com/hariscodebase/bikerscross",
         "usedskills": "HTML | CSS | JS | Bootstrap | NodeJS",
         "description": "A website to connect bikers. This was developed using Bootstrap for frontend and NodeJS for backend."
