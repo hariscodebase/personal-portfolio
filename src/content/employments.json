@@ -1,8 +1,18 @@
 [
     {
         "id": 1,
+        "companyName": "Clevr",
+        "title": "Senior Software Developer",
+        "description": "Designed and developed SaaS-based backend solutions using C#, .NET Core, and SQL Server implementing MVC architecture. Managed cloud infrastructure on Azure using Terraform with provision for Autoscaling and on-demand configuration",
+        "startDate": "2022-12-05",
+        "endDate": "2024-03-30",
+        "created_at": "2022-08-10T00:45:55.000000Z",
+        "updated_at": "2022-08-10T00:45:55.000000Z"
+    },
+    {
+        "id": 2,
         "companyName": "Agilysys Technologies",
-        "title": "Full Stack Developer",
+        "title": "Senior Software Analyst",
         "description": "Worked on the modernization of legacy apps to Single Page Application using ReactJS, ASP .NET Web API, ExpressJS, NodeJS and SQL. Migrated/Rebuilt all the apis from Monolyth to Microservices Architecture (MVC Design pattern)",
         "startDate": "2020-12-01",
         "endDate": "2021-12-01",
@@ -10,22 +20,12 @@
         "updated_at": "2022-08-10T00:45:55.000000Z"
     },
     {
-        "id": 2,
-        "companyName": "Wipro Technologies",
-        "title": "Test Automation Developer",
-        "description": "Worked for GEICO, a US client where my role was to build Automation solutions using ASP .NET, MVC, C# and Selenium. Implemented CI-CD pipeline integration using Microsoft Azure Devops.",
-        "startDate": "2016-09-01",
-        "endDate": "2020-12-01",
-        "created_at": "2022-08-10T00:45:55.000000Z",
-        "updated_at": "2022-08-10T00:45:55.000000Z"
-    },
-    {
         "id": 3,
         "companyName": "Wipro Technologies",
         "title": "Software Engineer",
-        "description": "Worked for WITS, a Norway client to provide logistics solution using DotNet and SQL server.",
+        "description": " Developed and maintained business-critical .NET Core and MVC applications with optimized database back-ends. Led the development of automated test suites using Selenium and C#, enhancing regression testing efficiency. ",
         "startDate": "2015-04-01",
-        "endDate": "2016-07-31",
+        "endDate": "2020-12-01",
         "created_at": "2022-08-10T00:45:55.000000Z",
         "updated_at": "2022-08-10T00:45:55.000000Z"
     }
